@@ -1,0 +1,3 @@
+.orient {
+    display: inline-block;
+}
